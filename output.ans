@@ -1,0 +1,20 @@
+[37;49;1m TITLE LOL 
+-----------[0m
+
+[37;49;1;4m MAIN SUBTITLE LOL [0m
+[37;49;1;4m SECOND SUBTITLE LOL [0m
+
+[31;47;2mRED TEXT ON WHITE BACKGROUND[0m
+[31;40;2mRED TEXT ON BLACK BACKGROUND[0m
+[32;40;2mGREEN TEXT ON BLACK BACKGROUND[0m
+[30;40;2mBLACK TEXT ON BLACK BACKGROUND[0m
+
+[37;49;0m list title 
+============[0m
+[37;49;0m  ‣ list element 1 [0m
+[37;49;0m  ‣ list element 2 [0m
+[37;49;0m  ‣ list element 3 [0m
+[37;49;0m  ‣ list element 4 [0m
+[37;49;0m  ‣ list element 5 [0m
+[37;49;0m============[0m
+
