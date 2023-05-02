@@ -86,8 +86,7 @@ class Parser:
 def main():
     argprs = argparse.ArgumentParser(
                     prog='Discord ansi',
-                    description='convert simple-to-undestand syntax to escape sequence decorated text',
-                    epilog='Text at the bottom of help')
+                    description='convert simple-to-undestand syntax to escape sequence decorated text')
     argprs.add_argument('input',help="input filename, can be /dev/stdin (linux only) to direct input. tap ctrl+D to end input")
     argprs.add_argument('output',help="output filename, can be /dev/stdout (linux only) to output directly in terminal")
     argprs.add_argument('-w','--wrap',action='store_true',help="wraps result in discord code snippet")
