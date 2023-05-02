@@ -1,18 +1,27 @@
-[[title]][ TITLE LOL ]
-
-[[subtitle]][ MAIN SUBTITLE LOL ]
-[[subtitle]][ SECOND SUBTITLE LOL ]
-
-[[colorline(red,white)]][RED TEXT ON WHITE BACKGROUND]
-[[colorline(red,black)]][RED TEXT ON BLACK BACKGROUND]
-[[colorline(green,black)]][GREEN TEXT ON BLACK BACKGROUND]
-[[colorline(black,black)]][BLACK TEXT ON BLACK BACKGROUND]
-
-[[list]][ list title ]
-[[el]][ list element 1 ]
-[[el]][ list element 2 ]
-[[el]][ list element 3 ]
-[[el]][ list element 4 ]
-[[el]][ list element 5 ]
-[[listend]]
-
+(0,8)[]{
+(0,8) black
+}
+(1,8)[1]{
+(1,8) red
+}
+(2,8)[1,3]{
+(2,8) green
+}
+(3,8)[1,3,4]{
+(3,8) yellow
+}
+(4,8)[1,3,4,9]{
+(4,8) blue
+}
+(5,8)[3,4,9]{
+(5,8) magenta
+}
+(6,8)[4,9]{
+(6,8) cyan
+}
+(7,8)[9,4,3,1]{
+(7,8) white
+}
+(8,8)[1,3,4,9]{
+(8,8) default
+}
